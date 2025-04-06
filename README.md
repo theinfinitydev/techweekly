@@ -26,32 +26,32 @@ This repository is updated weekly with new tools, libraries, and articles. Star 
 
 | Repository | Description | Stars | Tags |
 |------------|-------------|-------|------|
-| [strapi/strapi](https://github.com/strapi/strapi) | Headless CMS | ⭐ 57.2k | `#cms` `#nodejs` `#api` |
-| [wasp-lang/open-saas](https://github.com/wasp-lang/open-saas) | Open Source SaaS | ⭐ 2.1k | `#saas` `#startup` |
-| [belastrittmatter/Framely](https://github.com/belastrittmatter/Framely) | UI Framework | ⭐ 890 | `#ui` `#framework` |
-| [Openpanel-dev/openpanel](https://github.com/Openpanel-dev/openpanel) | Admin Panel | ⭐ 890 | `#admin` `#dashboard` |
-| [kaneo-app/app](https://github.com/kaneo-app/app) | Application Framework | ⭐ 580 | `#framework` `#app-development` |
-| [MotiaDev/motia](https://github.com/MotiaDev/motia) | Development Platform | ⭐ 450 | `#development` `#platform` |
-| [icantcodefyi/diagram](https://github.com/icantcodefyi/diagram) | Diagram Tool | ⭐ 890 | `#diagram` `#visualization` |
-| [iib0011/omni-tools](https://github.com/iib0011/omni-tools) | Development Tools | ⭐ 340 | `#tools` `#development` |
+| [strapi/strapi](https://github.com/strapi/strapi) | Headless CMS | ![GitHub Stars](https://img.shields.io/github/stars/strapi/strapi) | `#cms` `#nodejs` `#api` |
+| [wasp-lang/open-saas](https://github.com/wasp-lang/open-saas) | Open Source SaaS | ![GitHub Stars](https://img.shields.io/github/stars/wasp-lang/open-saas) | `#saas` `#startup` |
+| [belastrittmatter/Framely](https://github.com/belastrittmatter/Framely) | UI Framework | ![GitHub Stars](https://img.shields.io/github/stars/belastrittmatter/Framely) | `#ui` `#framework` |
+| [Openpanel-dev/openpanel](https://github.com/Openpanel-dev/openpanel) | Admin Panel | ![GitHub Stars](https://img.shields.io/github/stars/Openpanel-dev/openpanel) | `#admin` `#dashboard` |
+| [kaneo-app/app](https://github.com/kaneo-app/app) | Application Framework | ![GitHub Stars](https://img.shields.io/github/stars/kaneo-app/app) | `#framework` `#app-development` |
+| [MotiaDev/motia](https://github.com/MotiaDev/motia) | Development Platform | ![GitHub Stars](https://img.shields.io/github/stars/MotiaDev/motia) | `#development` `#platform` |
+| [icantcodefyi/diagram](https://github.com/icantcodefyi/diagram) | Diagram Tool | ![GitHub Stars](https://img.shields.io/github/stars/icantcodefyi/diagram) | `#diagram` `#visualization` |
+| [iib0011/omni-tools](https://github.com/iib0011/omni-tools) | Development Tools | ![GitHub Stars](https://img.shields.io/github/stars/iib0011/omni-tools) | `#tools` `#development` |
 | [formbricks.com](https://formbricks.com) | Form Builder Platform | - | `#forms` `#surveys` |
 
 ## 🔄 DevOps & Infrastructure
 
 | Repository | Description | Stars | Tags |
 |------------|-------------|-------|------|
-| [antonputra/tutorials](https://github.com/antonputra/tutorials) | DevOps Tutorials | ⭐ 4.2k | `#devops` `#tutorials` |
-| [cloudogu/gitops-playground](https://github.com/cloudogu/gitops-playground) | GitOps Learning | ⭐ 240 | `#gitops` `#kubernetes` |
-| [Dokploy/dokploy](https://github.com/Dokploy/dokploy) | Deployment Automation | ⭐ 180 | `#deployment` `#automation` |
-| [dagger/dagger](https://github.com/dagger/dagger) | DevOps Toolkit | ⭐ 9.2k | `#devops` `#ci-cd` |
-| [kelseyhightower/kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) | Kubernetes Guide | ⭐ 35.8k | `#kubernetes` `#tutorial` |
-| [semaphoreio/semaphore](https://github.com/semaphoreio/semaphore) | CI/CD Platform | ⭐ 4.2k | `#ci-cd` `#automation` |
-| [Infisical/infisical](https://github.com/Infisical/infisical) | Secret Management | ⭐ 9.8k | `#security` `#secrets` |
-| [zane-ops/zane-ops](https://github.com/zane-ops/zane-ops) | DevOps Tools | ⭐ 320 | `#devops` `#tools` |
-| [wmariuss/awesome-devops](https://github.com/wmariuss/awesome-devops) | DevOps Resources | ⭐ 1.5k | `#devops` `#resources` |
-| [openops-cloud/openops](https://github.com/openops-cloud/openops) | Cloud Operations | ⭐ 320 | `#cloud` `#operations` |
-| [subtrace/subtrace](https://github.com/subtrace/subtrace) | Tracing Tool | ⭐ 670 | `#tracing` `#monitoring` |
-| [grafana/k6](https://github.com/grafana/k6) | Load Testing Tool | ⭐ 21.8k | `#testing` `#performance` |
+| [antonputra/tutorials](https://github.com/antonputra/tutorials) | DevOps Tutorials | ![GitHub Stars](https://img.shields.io/github/stars/antonputra/tutorials) | `#devops` `#tutorials` |
+| [cloudogu/gitops-playground](https://github.com/cloudogu/gitops-playground) | GitOps Learning | ![GitHub Stars](https://img.shields.io/github/stars/cloudogu/gitops-playground) | `#gitops` `#kubernetes` |
+| [Dokploy/dokploy](https://github.com/Dokploy/dokploy) | Deployment Automation | ![GitHub Stars](https://img.shields.io/github/stars/Dokploy/dokploy) | `#deployment` `#automation` |
+| [dagger/dagger](https://github.com/dagger/dagger) | DevOps Toolkit | ![GitHub Stars](https://img.shields.io/github/stars/dagger/dagger) | `#devops` `#ci-cd` |
+| [kelseyhightower/kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) | Kubernetes Guide | ![GitHub Stars](https://img.shields.io/github/stars/kelseyhightower/kubernetes-the-hard-way) | `#kubernetes` `#tutorial` |
+| [semaphoreio/semaphore](https://github.com/semaphoreio/semaphore) | CI/CD Platform | ![GitHub Stars](https://img.shields.io/github/stars/semaphoreio/semaphore) | `#ci-cd` `#automation` |
+| [Infisical/infisical](https://github.com/Infisical/infisical) | Secret Management | ![GitHub Stars](https://img.shields.io/github/stars/Infisical/infisical) | `#security` `#secrets` |
+| [zane-ops/zane-ops](https://github.com/zane-ops/zane-ops) | DevOps Tools | ![GitHub Stars](https://img.shields.io/github/stars/zane-ops/zane-ops) | `#devops` `#tools` |
+| [wmariuss/awesome-devops](https://github.com/wmariuss/awesome-devops) | DevOps Resources | ![GitHub Stars](https://img.shields.io/github/stars/wmariuss/awesome-devops) | `#devops` `#resources` |
+| [openops-cloud/openops](https://github.com/openops-cloud/openops) | Cloud Operations | ![GitHub Stars](https://img.shields.io/github/stars/openops-cloud/openops) | `#cloud` `#operations` |
+| [subtrace/subtrace](https://github.com/subtrace/subtrace) | Tracing Tool | ![GitHub Stars](https://img.shields.io/github/stars/subtrace/subtrace) | `#tracing` `#monitoring` |
+| [grafana/k6](https://github.com/grafana/k6) | Load Testing Tool | ![GitHub Stars](https://img.shields.io/github/stars/grafana/k6) | `#testing` `#performance` |
 | [komiser.io](https://www.komiser.io) | Cloud Cost Management | - | `#cloud` `#cost-management` |
 | [dash0.com](https://www.dash0.com) | DevOps Platform | - | `#devops` `#automation` |
 | [zeropath.com](https://zeropath.com) | Security Platform | - | `#security` `#access-control` |
@@ -60,54 +60,47 @@ This repository is updated weekly with new tools, libraries, and articles. Star 
 
 | Repository | Description | Stars | Tags |
 |------------|-------------|-------|------|
-| [khoj-ai/khoj](https://github.com/khoj-ai/khoj) | AI Personal Assistant | ⭐ 3.8k | `#ai` `#assistant` |
-| [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | LangChain Flow Builder | ⭐ 13.7k | `#langchain` `#ai` |
-| [eosphoros-ai/DB-GPT](https://github.com/eosphoros-ai/DB-GPT) | Database AI | ⭐ 8.9k | `#ai` `#database` |
-| [AgentOps-AI/agentops](https://github.com/AgentOps-AI/agentops) | AI Operations | ⭐ 1.2k | `#ai` `#mlops` |
-| [Chainlit/chainlit](https://github.com/Chainlit/chainlit) | Python Chatbot Framework | ⭐ 4.5k | `#chatbot` `#python` |
-| [agno-agi/agno](https://github.com/agno-agi/agno) | AI Framework | ⭐ 670 | `#ai` `#framework` |
-| [skyvern-ai/skyvern](https://github.com/skyvern-ai/skyvern) | AI Platform | ⭐ 1.2k | `#ai` `#platform` |
-| [AI4Finance-Foundation/FinRobot](https://github.com/AI4Finance-Foundation/FinRobot) | Finance AI | ⭐ 1.8k | `#finance` `#ai` |
-| [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) | ChatGPT Prompts | ⭐ 89.2k | `#ai` `#chatgpt` |
-| [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) | MCP Implementation | ⭐ 450 | `#mcp` `#protocol` |
-| [xataio/agent](https://github.com/xataio/agent) | Database Agent | ⭐ 780 | `#database` `#agent` |
-| [graviraja/MLOps-Basics](https://github.com/graviraja/MLOps-Basics) | MLOps Tutorial | ⭐ 3.2k | `#mlops` `#tutorial` |
-| [jam.dev/ai](https://jam.dev/ai) | AI Development Platform | - | `#ai` `#development` |
-| [trae.ai](https://www.trae.ai) | AI Development Platform | - | `#ai` `#development` |
+| [khoj-ai/khoj](https://github.com/khoj-ai/khoj) | AI Personal Assistant | ![GitHub Stars](https://img.shields.io/github/stars/khoj-ai/khoj) | `#ai` `#assistant` |
+| [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | LangChain Flow Builder | ![GitHub Stars](https://img.shields.io/github/stars/langflow-ai/langflow) | `#langchain` `#ai` |
+| [eosphoros-ai/DB-GPT](https://github.com/eosphoros-ai/DB-GPT) | Database AI | ![GitHub Stars](https://img.shields.io/github/stars/eosphoros-ai/DB-GPT) | `#ai` `#database` |
+| [AgentOps-AI/agentops](https://github.com/AgentOps-AI/agentops) | AI Operations | ![GitHub Stars](https://img.shields.io/github/stars/AgentOps-AI/agentops) | `#ai` `#mlops` |
+| [Chainlit/chainlit](https://github.com/Chainlit/chainlit) | Python Chatbot Framework | ![GitHub Stars](https://img.shields.io/github/stars/Chainlit/chainlit) | `#chatbot` `#python` |
+| [agno-agi/agno](https://github.com/agno-agi/agno) | AI Framework | ![GitHub Stars](https://img.shields.io/github/stars/agno-agi/agno) | `#ai` `#framework` |
+| [skyvern-ai/skyvern](https://github.com/skyvern-ai/skyvern) | AI Platform | ![GitHub Stars](https://img.shields.io/github/stars/skyvern-ai/skyvern) | `#ai` `#platform` |
+| [AI4Finance-Foundation/FinRobot](https://github.com/AI4Finance-Foundation/FinRobot) | Finance AI | ![GitHub Stars](https://img.shields.io/github/stars/AI4Finance-Foundation/FinRobot) | `#finance` `#ai` |
+| [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) | ChatGPT Prompts | ![GitHub Stars](https://img.shields.io/github/stars/f/awesome-chatgpt-prompts) | `#ai` `#chatgpt` |
+| [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) | MCP Implementation | ![GitHub Stars](https://img.shields.io/github/stars/modelcontextprotocol/servers) | `#mcp` `#protocol` |
+| [xataio/agent](https://github.com/xataio/agent) | Database Agent | ![GitHub Stars](https://img.shields.io/github/stars/xataio/agent) | `#database` `#agent` |
+| [graviraja/MLOps-Basics](https://github.com/graviraja/MLOps-Basics) | MLOps Tutorial | ![GitHub Stars](https://img.shields.io/github/stars/graviraja/MLOps-Basics) | `#mlops` `#tutorial` |
 
 ## 📱 Applications & Utilities
 
 | Repository | Description | Stars | Tags |
 |------------|-------------|-------|------|
-| [KRTirtho/spotube](https://github.com/KRTirtho/spotube) | Spotify Client | ⭐ 17.2k | `#music` `#spotify` |
-| [home-assistant/core](https://github.com/home-assistant/core) | Home Automation | ⭐ 65.4k | `#iot` `#automation` |
-| [kafbat/kafka-ui](https://github.com/kafbat/kafka-ui) | Kafka UI | ⭐ 7.2k | `#kafka` `#ui` |
-| [akaunting/akaunting](https://github.com/akaunting/akaunting) | Accounting Software | ⭐ 6.8k | `#accounting` `#finance` |
-| [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) | Investment Research | ⭐ 23.4k | `#finance` `#research` |
-| [microsoft/qlib](https://github.com/microsoft/qlib) | Quantitative Platform | ⭐ 12.4k | `#quantitative` `#finance` |
-| [YaLTeR/niri](https://github.com/YaLTeR/niri) | Window Manager | ⭐ 2.1k | `#window-manager` `#linux` |
-| [steel-dev/surf.new](https://github.com/steel-dev/surf.new) | Web Browser | ⭐ 780 | `#browser` `#web` |
-| [nanobrowser/nanobrowser](https://github.com/nanobrowser/nanobrowser) | Lightweight Browser | ⭐ 890 | `#browser` `#lightweight` |
-| [eodowd/libresail](https://github.com/eodowd/libresail) | Sailing Software | ⭐ 290 | `#sailing` `#software` |
-| [damian-krychowski/plikshare](https://github.com/damian-krychowski/plikshare) | File Sharing | ⭐ 340 | `#file-sharing` `#tools` |
-| [vas3k/TaxHacker](https://github.com/vas3k/TaxHacker) | Tax Management | ⭐ 890 | `#tax` `#finance` |
-| [ourongxing/newsnow](https://github.com/ourongxing/newsnow) | News Aggregator | ⭐ 670 | `#news` `#aggregator` |
-| [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex) | Search Engine | ⭐ 780 | `#search` `#engine` |
-| [antiwork/shortest](https://github.com/antiwork/shortest) | URL Shortener | ⭐ 450 | `#url` `#shortener` |
-| [Genta-Technology/Kolosal](https://github.com/Genta-Technology/Kolosal) | Cloud Platform | ⭐ 450 | `#cloud` `#platform` |
-| [raycast.com](https://www.raycast.com) | Productivity Tool | - | `#productivity` `#macos` |
-| [wakatime.com](https://wakatime.com) | Developer Analytics | - | `#productivity` `#metrics` |
-| [follow.is](https://follow.is) | Social Media Management | - | `#social-media` `#marketing` |
-| [daily.dev](https://daily.dev) | Developer News Platform | - | `#news` `#developer` |
-| [hyperswitch.io](https://hyperswitch.io) | Payment Infrastructure | - | `#payments` `#fintech` |
+| [KRTirtho/spotube](https://github.com/KRTirtho/spotube) | Spotify Client | ![GitHub Stars](https://img.shields.io/github/stars/KRTirtho/spotube) | `#music` `#spotify` |
+| [home-assistant/core](https://github.com/home-assistant/core) | Home Automation | ![GitHub Stars](https://img.shields.io/github/stars/home-assistant/core) | `#iot` `#automation` |
+| [kafbat/kafka-ui](https://github.com/kafbat/kafka-ui) | Kafka UI | ![GitHub Stars](https://img.shields.io/github/stars/kafbat/kafka-ui) | `#kafka` `#ui` |
+| [akaunting/akaunting](https://github.com/akaunting/akaunting) | Accounting Software | ![GitHub Stars](https://img.shields.io/github/stars/akaunting/akaunting) | `#accounting` `#finance` |
+| [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) | Investment Research | ![GitHub Stars](https://img.shields.io/github/stars/OpenBB-finance/OpenBB) | `#finance` `#research` |
+| [microsoft/qlib](https://github.com/microsoft/qlib) | Quantitative Platform | ![GitHub Stars](https://img.shields.io/github/stars/microsoft/qlib) | `#quantitative` `#finance` |
+| [YaLTeR/niri](https://github.com/YaLTeR/niri) | Window Manager | ![GitHub Stars](https://img.shields.io/github/stars/YaLTeR/niri) | `#window-manager` `#linux` |
+| [steel-dev/surf.new](https://github.com/steel-dev/surf.new) | Web Browser | ![GitHub Stars](https://img.shields.io/github/stars/steel-dev/surf.new) | `#browser` `#web` |
+| [nanobrowser/nanobrowser](https://github.com/nanobrowser/nanobrowser) | Lightweight Browser | ![GitHub Stars](https://img.shields.io/github/stars/nanobrowser/nanobrowser) | `#browser` `#lightweight` |
+| [eodowd/libresail](https://github.com/eodowd/libresail) | Sailing Software | ![GitHub Stars](https://img.shields.io/github/stars/eodowd/libresail) | `#sailing` `#software` |
+| [damian-krychowski/plikshare](https://github.com/damian-krychowski/plikshare) | File Sharing | ![GitHub Stars](https://img.shields.io/github/stars/damian-krychowski/plikshare) | `#file-sharing` `#tools` |
+| [vas3k/TaxHacker](https://github.com/vas3k/TaxHacker) | Tax Management | ![GitHub Stars](https://img.shields.io/github/stars/vas3k/TaxHacker) | `#tax` `#finance` |
+| [ourongxing/newsnow](https://github.com/ourongxing/newsnow) | News Aggregator | ![GitHub Stars](https://img.shields.io/github/stars/ourongxing/newsnow) | `#news` `#aggregator` |
+| [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex) | Search Engine | ![GitHub Stars](https://img.shields.io/github/stars/cocoindex-io/cocoindex) | `#search` `#engine` |
+| [antiwork/shortest](https://github.com/antiwork/shortest) | URL Shortener | ![GitHub Stars](https://img.shields.io/github/stars/antiwork/shortest) | `#url` `#shortener` |
+| [Genta-Technology/Kolosal](https://github.com/Genta-Technology/Kolosal) | Cloud Platform | ![GitHub Stars](https://img.shields.io/github/stars/Genta-Technology/Kolosal) | `#cloud` `#platform` |
 
 ## 📖 Learning Resources
 
 | Repository | Description | Stars | Tags |
 |------------|-------------|-------|------|
-| [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) | Programming Books | ⭐ 302k | `#learning` `#books` |
-| [ZachGoldberg/Startup-CTO-Handbook](https://github.com/ZachGoldberg/Startup-CTO-Handbook) | CTO Guide | ⭐ 7.1k | `#management` `#leadership` |
-| [engineering-management/awesome-engineering-management](https://github.com/engineering-management/awesome-engineering-management) | Engineering Management | ⭐ 6.8k | `#management` `#leadership` |
+| [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) | Programming Books | ![GitHub Stars](https://img.shields.io/github/stars/EbookFoundation/free-programming-books) | `#learning` `#books` |
+| [ZachGoldberg/Startup-CTO-Handbook](https://github.com/ZachGoldberg/Startup-CTO-Handbook) | CTO Guide | ![GitHub Stars](https://img.shields.io/github/stars/ZachGoldberg/Startup-CTO-Handbook) | `#management` `#leadership` |
+| [engineering-management/awesome-engineering-management](https://github.com/engineering-management/awesome-engineering-management) | Engineering Management | ![GitHub Stars](https://img.shields.io/github/stars/engineering-management/awesome-engineering-management) | `#management` `#leadership` |
 | [teachyourselfcs.com](https://teachyourselfcs.com) | Computer Science Education | - | `#cs` `#education` |
 
 ## 📝 Technical Articles
