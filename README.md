@@ -72,6 +72,8 @@ This repository is updated weekly with new tools, libraries, and articles. Star 
 | [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) | MCP Implementation | ![GitHub Stars](https://img.shields.io/github/stars/modelcontextprotocol/servers) | `#mcp` `#protocol` |
 | [xataio/agent](https://github.com/xataio/agent) | Database Agent | ![GitHub Stars](https://img.shields.io/github/stars/xataio/agent) | `#database` `#agent` |
 | [graviraja/MLOps-Basics](https://github.com/graviraja/MLOps-Basics) | MLOps Tutorial | ![GitHub Stars](https://img.shields.io/github/stars/graviraja/MLOps-Basics) | `#mlops` `#tutorial` |
+| [jam.dev/ai](https://jam.dev/ai) | AI Development Platform | - | `#ai` `#development` |
+| [trae.ai](https://www.trae.ai) | AI Development Platform | - | `#ai` `#development` |
 
 ## 📱 Applications & Utilities
 
@@ -93,6 +95,11 @@ This repository is updated weekly with new tools, libraries, and articles. Star 
 | [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex) | Search Engine | ![GitHub Stars](https://img.shields.io/github/stars/cocoindex-io/cocoindex) | `#search` `#engine` |
 | [antiwork/shortest](https://github.com/antiwork/shortest) | URL Shortener | ![GitHub Stars](https://img.shields.io/github/stars/antiwork/shortest) | `#url` `#shortener` |
 | [Genta-Technology/Kolosal](https://github.com/Genta-Technology/Kolosal) | Cloud Platform | ![GitHub Stars](https://img.shields.io/github/stars/Genta-Technology/Kolosal) | `#cloud` `#platform` |
+| [raycast.com](https://www.raycast.com) | Productivity Tool | - | `#productivity` `#macos` |
+| [wakatime.com](https://wakatime.com) | Developer Analytics | - | `#productivity` `#metrics` |
+| [follow.is](https://follow.is) | Social Media Management | - | `#social-media` `#marketing` |
+| [daily.dev](https://daily.dev) | Developer News Platform | - | `#news` `#developer` |
+| [hyperswitch.io](https://hyperswitch.io) | Payment Infrastructure | - | `#payments` `#fintech` |
 
 ## 📖 Learning Resources
 
