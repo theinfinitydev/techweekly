@@ -2,9 +2,9 @@
 
 This repository is a curated collection of technology resources published weekly by [The Infinity](https://www.theinfinity.dev/). It includes the latest tools, libraries, and articles in software development, DevOps, artificial intelligence, and other technology domains.
 
-> 🔄 **Last Updated:** Mar 31, 2025
+> 🔄 **Last Updated:** April 07, 2025
 > 
-> 📰 **Latest Newsletter:** [The Infinity Tech IV](https://www.theinfinity.dev/p/the-infinity-tech-iv)
+> 📰 **Latest Newsletter:** [The Infinity Tech V](https://www.theinfinity.dev/p/the-infinity-tech-v)
 
 This repository is updated weekly with new tools, libraries, and articles. Star and follow this repo to stay updated with the latest developments in the technology world.
 
@@ -34,6 +34,10 @@ This repository is updated weekly with new tools, libraries, and articles. Star 
 | [MotiaDev/motia](https://github.com/MotiaDev/motia) | Development Platform | ![GitHub Stars](https://img.shields.io/github/stars/MotiaDev/motia) | `#development` `#platform` |
 | [icantcodefyi/diagram](https://github.com/icantcodefyi/diagram) | Diagram Tool | ![GitHub Stars](https://img.shields.io/github/stars/icantcodefyi/diagram) | `#diagram` `#visualization` |
 | [iib0011/omni-tools](https://github.com/iib0011/omni-tools) | Development Tools | ![GitHub Stars](https://img.shields.io/github/stars/iib0011/omni-tools) | `#tools` `#development` |
+| [swingmx/swingmusic](https://github.com/swingmx/swingmusic) | Music Development Platform | ![GitHub Stars](https://img.shields.io/github/stars/swingmx/swingmusic) | `#music` `#development` |
+| [MizuchiLabs/mantrae](https://github.com/MizuchiLabs/mantrae) | Development Framework | ![GitHub Stars](https://img.shields.io/github/stars/MizuchiLabs/mantrae) | `#framework` `#development` |
+| [papra-hq/papra](https://github.com/papra-hq/papra) | Development Tool | ![GitHub Stars](https://img.shields.io/github/stars/papra-hq/papra) | `#tool` `#development` |
+| [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) | Collaboration Platform | ![GitHub Stars](https://img.shields.io/github/stars/gitroomhq/postiz-app) | `#collaboration` `#platform` |
 | [formbricks.com](https://formbricks.com) | Form Builder Platform | - | `#forms` `#surveys` |
 
 ## 🔄 DevOps & Infrastructure
@@ -52,6 +56,9 @@ This repository is updated weekly with new tools, libraries, and articles. Star 
 | [openops-cloud/openops](https://github.com/openops-cloud/openops) | Cloud Operations | ![GitHub Stars](https://img.shields.io/github/stars/openops-cloud/openops) | `#cloud` `#operations` |
 | [subtrace/subtrace](https://github.com/subtrace/subtrace) | Tracing Tool | ![GitHub Stars](https://img.shields.io/github/stars/subtrace/subtrace) | `#tracing` `#monitoring` |
 | [grafana/k6](https://github.com/grafana/k6) | Load Testing Tool | ![GitHub Stars](https://img.shields.io/github/stars/grafana/k6) | `#testing` `#performance` |
+| [louislam/dockge](https://github.com/louislam/dockge) | Docker Management UI | ![GitHub Stars](https://img.shields.io/github/stars/louislam/dockge) | `#docker` `#management` |
+| [ajnart/dcm](https://github.com/ajnart/dcm) | Docker Compose Manager | ![GitHub Stars](https://img.shields.io/github/stars/ajnart/dcm) | `#docker` `#compose` |
+| [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) | MCP Server Resources | ![GitHub Stars](https://img.shields.io/github/stars/punkpeye/awesome-mcp-servers) | `#mcp` `#servers` |
 | [komiser.io](https://www.komiser.io) | Cloud Cost Management | - | `#cloud` `#cost-management` |
 | [dash0.com](https://www.dash0.com) | DevOps Platform | - | `#devops` `#automation` |
 | [zeropath.com](https://zeropath.com) | Security Platform | - | `#security` `#access-control` |
@@ -95,6 +102,8 @@ This repository is updated weekly with new tools, libraries, and articles. Star 
 | [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex) | Search Engine | ![GitHub Stars](https://img.shields.io/github/stars/cocoindex-io/cocoindex) | `#search` `#engine` |
 | [antiwork/shortest](https://github.com/antiwork/shortest) | URL Shortener | ![GitHub Stars](https://img.shields.io/github/stars/antiwork/shortest) | `#url` `#shortener` |
 | [Genta-Technology/Kolosal](https://github.com/Genta-Technology/Kolosal) | Cloud Platform | ![GitHub Stars](https://img.shields.io/github/stars/Genta-Technology/Kolosal) | `#cloud` `#platform` |
+| [DioCrafts/OxiCloud](https://github.com/DioCrafts/OxiCloud) | Cloud Storage Solution | ![GitHub Stars](https://img.shields.io/github/stars/DioCrafts/OxiCloud) | `#cloud` `#storage` |
+| [th-ch/youtube-music](https://github.com/th-ch/youtube-music) | YouTube Music Client | ![GitHub Stars](https://img.shields.io/github/stars/th-ch/youtube-music) | `#music` `#youtube` |
 | [raycast.com](https://www.raycast.com) | Productivity Tool | - | `#productivity` `#macos` |
 | [wakatime.com](https://wakatime.com) | Developer Analytics | - | `#productivity` `#metrics` |
 | [follow.is](https://follow.is) | Social Media Management | - | `#social-media` `#marketing` |
@@ -123,6 +132,8 @@ This repository is updated weekly with new tools, libraries, and articles. Star 
 | [Service Discovery in Microservices](https://blog.stackademic.com/service-discovery-in-microservices-a-complete-guide-d9a49cb40750) | Stackademic | `#microservices` `#architecture` |
 | [How Do WebSockets Work](https://newsletter.systemdesign.one/p/how-do-websockets-work) | SystemDesign.one | `#websockets` `#networking` |
 | [Software Architecture Resources](https://medium.com/javarevisited/10-best-resources-to-learn-software-architecture-in-2025-2524ac91dc76) | Medium | `#architecture` `#learning` |
+| [System Design Roadmap for Beginners](https://dev.to/hellonehha/system-design-roadmap-for-beginners-nfi) | Dev.to | `#system-design` `#beginners` |
+| [Breaking Down Stateful vs Stateless Design](https://blog.levelupcoding.com/p/luc-79-breaking-down-stateful-vs-stateless-design) | LevelUpCoding | `#architecture` `#design-patterns` |
 
 ### DevOps & Infrastructure
 
@@ -140,6 +151,11 @@ This repository is updated weekly with new tools, libraries, and articles. Star 
 | [S3 Architecture](https://www.allthingsdistributed.com/2025/03/in-s3-simplicity-is-table-stakes.html) | AWS | `#aws` `#storage` |
 | [Uber ARM Cloud Migration](https://www.infoq.com/news/2025/02/uber-arm-cloud) | InfoQ | `#cloud` `#arm` |
 | [Traefik Observability](https://www.infoq.com/news/2025/02/traefik-observability-docs) | InfoQ | `#observability` `#documentation` |
+| [LLM Observability](https://www.infoq.com/news/2025/04/llm-observability/) | InfoQ | `#llm` `#observability` |
+| [Faster Interpreters in Go: Catching Up with C++](https://planetscale.com/blog/faster-interpreters-in-go-catching-up-with-cpp) | PlanetScale | `#go` `#performance` |
+| [Canonical Kubernetes, Cilium, and Other CNIs](https://canonical.com/blog/canonical-kubernetes-cilium-and-other-cnis) | Canonical | `#kubernetes` `#networking` |
+| [XNU Kernel and Darwin: Evolution and Architecture](https://tansanrao.com/blog/2025/04/xnu-kernel-and-darwin-evolution-and-architecture/) | Tansanrao | `#kernel` `#darwin` |
+| [Create Your Own GitOps Controller with Rust](https://itnext.io/create-your-own-gitops-controller-with-rust-70b6d077e2d0) | ITNEXT | `#gitops` `#rust` |
 
 ### AI & Machine Learning
 
@@ -156,6 +172,7 @@ This repository is updated weekly with new tools, libraries, and articles. Star 
 | [Full Stack Agents with CrewAI](https://blog.dailydoseofds.com/p/build-full-stack-agents-with-crewai) | DailyDoseOfDS | `#ai` `#agents` |
 | [AI Research Paper](https://www.sciencedirect.com/science/article/pii/S2667295224000795) | ScienceDirect | `#ai` `#research` |
 | [How to Become an AI Engineer](https://www.simplilearn.com/tutorials/artificial-intelligence-tutorial/how-to-become-an-ai-engineer) | Simplilearn | `#ai` `#career` |
+| [Automate 90% of Your Work with AI Agents](https://dev.to/copilotkit/automate-90-of-your-work-with-ai-agents-real-examples-code-inside-46ke) | Dev.to | `#ai` `#automation` |
 
 ### Development & Best Practices
 
