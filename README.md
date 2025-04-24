@@ -2,9 +2,9 @@
 
 This repository is a curated collection of technology resources published weekly by [The Infinity](https://www.theinfinity.dev/). It includes the latest tools, libraries, and articles in software development, DevOps, artificial intelligence, and other technology domains.
 
-> 🔄 **Last Updated:** April 07, 2025
+> 🔄 **Last Updated:** April 21, 2025
 > 
-> 📰 **Latest Newsletter:** [The Infinity Tech V](https://www.theinfinity.dev/p/the-infinity-tech-v)
+> 📰 **Latest Newsletter:** [The Infinity Tech VII](https://www.theinfinity.dev/p/the-infinity-tech-vii)
 
 This repository is updated weekly with new tools, libraries, and articles. Star and follow this repo to stay updated with the latest developments in the technology world.
 
@@ -37,6 +37,9 @@ This repository is updated weekly with new tools, libraries, and articles. Star 
 | [swingmx/swingmusic](https://github.com/swingmx/swingmusic) | Music Development Platform | ![GitHub Stars](https://img.shields.io/github/stars/swingmx/swingmusic) | `#music` `#development` |
 | [MizuchiLabs/mantrae](https://github.com/MizuchiLabs/mantrae) | Development Framework | ![GitHub Stars](https://img.shields.io/github/stars/MizuchiLabs/mantrae) | `#framework` `#development` |
 | [papra-hq/papra](https://github.com/papra-hq/papra) | Development Tool | ![GitHub Stars](https://img.shields.io/github/stars/papra-hq/papra) | `#tool` `#development` |
+| [activepieces/activepieces](https://github.com/activepieces/activepieces) | Automation platform | ![GitHub Stars](https://img.shields.io/github/stars/activepieces/activepieces) | `#automation` `#workflow` |
+| [vinta/awesome-python](https://github.com/vinta/awesome-python) | Curated list of Python resources | ![GitHub Stars](https://img.shields.io/github/stars/vinta/awesome-python) | `#python` `#resources` |
+| [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) | React-like framework for Rust | ![GitHub Stars](https://img.shields.io/github/stars/DioxusLabs/dioxus) | `#rust` `#ui-framework` |
 | [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) | Collaboration Platform | ![GitHub Stars](https://img.shields.io/github/stars/gitroomhq/postiz-app) | `#collaboration` `#platform` |
 | [formbricks.com](https://formbricks.com) | Form Builder Platform | - | `#forms` `#surveys` |
 
@@ -59,6 +62,9 @@ This repository is updated weekly with new tools, libraries, and articles. Star 
 | [louislam/dockge](https://github.com/louislam/dockge) | Docker Management UI | ![GitHub Stars](https://img.shields.io/github/stars/louislam/dockge) | `#docker` `#management` |
 | [ajnart/dcm](https://github.com/ajnart/dcm) | Docker Compose Manager | ![GitHub Stars](https://img.shields.io/github/stars/ajnart/dcm) | `#docker` `#compose` |
 | [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) | MCP Server Resources | ![GitHub Stars](https://img.shields.io/github/stars/punkpeye/awesome-mcp-servers) | `#mcp` `#servers` |
+| [govigilant/vigilant](https://github.com/govigilant/vigilant) | Security monitoring and alerting platform | ![GitHub Stars](https://img.shields.io/github/stars/govigilant/vigilant) | `#security` `#monitoring` |
+| [kestra-io/kestra](https://github.com/kestra-io/kestra) | Orchestration and scheduling platform | ![GitHub Stars](https://img.shields.io/github/stars/kestra-io/kestra) | `#orchestration` `#workflow` |
+| [tiagorangel1/cap](https://github.com/tiagorangel1/cap) | Cloud automation platform | ![GitHub Stars](https://img.shields.io/github/stars/tiagorangel1/cap) | `#cloud` `#automation` |
 | [komiser.io](https://www.komiser.io) | Cloud Cost Management | - | `#cloud` `#cost-management` |
 | [dash0.com](https://www.dash0.com) | DevOps Platform | - | `#devops` `#automation` |
 | [zeropath.com](https://zeropath.com) | Security Platform | - | `#security` `#access-control` |
@@ -79,6 +85,12 @@ This repository is updated weekly with new tools, libraries, and articles. Star 
 | [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) | MCP Implementation | ![GitHub Stars](https://img.shields.io/github/stars/modelcontextprotocol/servers) | `#mcp` `#protocol` |
 | [xataio/agent](https://github.com/xataio/agent) | Database Agent | ![GitHub Stars](https://img.shields.io/github/stars/xataio/agent) | `#database` `#agent` |
 | [graviraja/MLOps-Basics](https://github.com/graviraja/MLOps-Basics) | MLOps Tutorial | ![GitHub Stars](https://img.shields.io/github/stars/graviraja/MLOps-Basics) | `#mlops` `#tutorial` |
+| [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) | Web crawler designed specifically for AI data collection | ![GitHub Stars](https://img.shields.io/github/stars/unclecode/crawl4ai) | `#ai` `#crawler` |
+| [mindverse/Second-Me](https://github.com/mindverse/Second-Me) | AI digital twin platform | ![GitHub Stars](https://img.shields.io/github/stars/mindverse/Second-Me) | `#ai` `#digital-twin` |
+| [mudler/LocalAI](https://github.com/mudler/LocalAI) | Self-hosted AI service | ![GitHub Stars](https://img.shields.io/github/stars/mudler/LocalAI) | `#ai` `#self-hosted` |
+| [getzep/graphiti](https://github.com/getzep/graphiti) | Graph-based AI knowledge management | ![GitHub Stars](https://img.shields.io/github/stars/getzep/graphiti) | `#ai` `#graph` |
+| [Klavis-AI/klavis](https://github.com/Klavis-AI/klavis) | AI platform for knowledge processing | ![GitHub Stars](https://img.shields.io/github/stars/Klavis-AI/klavis) | `#ai` `#platform` |
+| [coder/agentapi](https://github.com/coder/agentapi) | API for building AI coding agents | ![GitHub Stars](https://img.shields.io/github/stars/coder/agentapi) | `#ai` `#api` |
 | [jam.dev/ai](https://jam.dev/ai) | AI Development Platform | - | `#ai` `#development` |
 | [trae.ai](https://www.trae.ai) | AI Development Platform | - | `#ai` `#development` |
 
@@ -104,6 +116,19 @@ This repository is updated weekly with new tools, libraries, and articles. Star 
 | [Genta-Technology/Kolosal](https://github.com/Genta-Technology/Kolosal) | Cloud Platform | ![GitHub Stars](https://img.shields.io/github/stars/Genta-Technology/Kolosal) | `#cloud` `#platform` |
 | [DioCrafts/OxiCloud](https://github.com/DioCrafts/OxiCloud) | Cloud Storage Solution | ![GitHub Stars](https://img.shields.io/github/stars/DioCrafts/OxiCloud) | `#cloud` `#storage` |
 | [th-ch/youtube-music](https://github.com/th-ch/youtube-music) | YouTube Music Client | ![GitHub Stars](https://img.shields.io/github/stars/th-ch/youtube-music) | `#music` `#youtube` |
+| [chartdb/chartdb](https://github.com/chartdb/chartdb) | Database visualization and charting tool | ![GitHub Stars](https://img.shields.io/github/stars/chartdb/chartdb) | `#database` `#visualization` |
+| [Tanq16/ExpenseOwl](https://github.com/Tanq16/ExpenseOwl) | Expense tracking application | ![GitHub Stars](https://img.shields.io/github/stars/Tanq16/ExpenseOwl) | `#finance` `#expense-tracking` |
+| [dreammis/social-auto-upload](https://github.com/dreammis/social-auto-upload) | Automated social media content publishing | ![GitHub Stars](https://img.shields.io/github/stars/dreammis/social-auto-upload) | `#social-media` `#automation` |
+| [getmaxun/maxun](https://github.com/getmaxun/maxun) | Productivity enhancement tool | ![GitHub Stars](https://img.shields.io/github/stars/getmaxun/maxun) | `#productivity` `#tool` |
+| [opf/openproject](https://github.com/opf/openproject) | Project management software | ![GitHub Stars](https://img.shields.io/github/stars/opf/openproject) | `#project-management` `#collaboration` |
+| [Anxcye/anx-reader](https://github.com/Anxcye/anx-reader) | Document reader application | ![GitHub Stars](https://img.shields.io/github/stars/Anxcye/anx-reader) | `#reader` `#document` |
+| [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader) | Algorithmic trading platform | ![GitHub Stars](https://img.shields.io/github/stars/nautechsystems/nautilus_trader) | `#trading` `#finance` |
+| [rawpair/rawpair](https://github.com/rawpair/rawpair) | Data processing and pairing tool | ![GitHub Stars](https://img.shields.io/github/stars/rawpair/rawpair) | `#data` `#processing` |
+| [kern/filepizza](https://github.com/kern/filepizza) | P2P file sharing web application | ![GitHub Stars](https://img.shields.io/github/stars/kern/filepizza) | `#file-sharing` `#p2p` |
+| [chartbrew/chartbrew](https://github.com/chartbrew/chartbrew) | Data visualization platform | ![GitHub Stars](https://img.shields.io/github/stars/chartbrew/chartbrew) | `#data` `#visualization` |
+| [cypht-org/cypht](https://github.com/cypht-org/cypht) | Webmail client | ![GitHub Stars](https://img.shields.io/github/stars/cypht-org/cypht) | `#email` `#client` |
+| [Zackriya-Solutions/meeting-minutes](https://github.com/Zackriya-Solutions/meeting-minutes) | Meeting notes and management tool | ![GitHub Stars](https://img.shields.io/github/stars/Zackriya-Solutions/meeting-minutes) | `#meetings` `#productivity` |
+| [error311/FileRise](https://github.com/error311/FileRise) | File sharing platform | ![GitHub Stars](https://img.shields.io/github/stars/error311/FileRise) | `#file-sharing` `#platform` |
 | [raycast.com](https://www.raycast.com) | Productivity Tool | - | `#productivity` `#macos` |
 | [wakatime.com](https://wakatime.com) | Developer Analytics | - | `#productivity` `#metrics` |
 | [follow.is](https://follow.is) | Social Media Management | - | `#social-media` `#marketing` |
@@ -134,6 +159,15 @@ This repository is updated weekly with new tools, libraries, and articles. Star 
 | [Software Architecture Resources](https://medium.com/javarevisited/10-best-resources-to-learn-software-architecture-in-2025-2524ac91dc76) | Medium | `#architecture` `#learning` |
 | [System Design Roadmap for Beginners](https://dev.to/hellonehha/system-design-roadmap-for-beginners-nfi) | Dev.to | `#system-design` `#beginners` |
 | [Breaking Down Stateful vs Stateless Design](https://blog.levelupcoding.com/p/luc-79-breaking-down-stateful-vs-stateless-design) | LevelUpCoding | `#architecture` `#design-patterns` |
+| [The Evolution of Modern RAG Architectures](https://www.newsletter.swirlai.com/p/the-evolution-of-modern-rag-architectures) | Swirl AI | `#rag` `#architecture` |
+| [Building Notion Clone Part 1: Planning the Architecture](https://medium.com/@shreyasmanolkar123/building-notion-clone-part-1-planning-the-architecture-f50342e58019) | Medium | `#architecture` `#notion` |
+| [Building Notion Clone Part 2: Crafting the Front-End Experience](https://medium.com/@shreyasmanolkar123/building-notion-clone-part-2-crafting-the-front-end-experience-cb194c1d132c) | Medium | `#frontend` `#notion` |
+| [7 Architectural Patterns You Must Know](https://blog.amigoscode.com/p/7-architectural-patterns-you-must) | Amigoscode | `#architecture` `#patterns` |
+| [The New Moat: Memory](https://jeffmorrisjr.substack.com/p/the-new-moat-memory) | Substack | `#memory` `#architecture` |
+| [Understanding Microservices Architecture](https://medium.com/@gustavowill/understanding-microservices-architecture-662d1f9fd114) | Medium | `#microservices` `#architecture` |
+| [System Design Interview Cheat Sheet 2025 Edition](https://medium.com/javarevisited/system-design-interview-cheat-sheet-2025-edition-key-concepts-books-courses-resources-2b582cd6ecd3) | Medium | `#system-design` `#interview` |
+| [Essential Caching Strategies for Optimal Performance](https://blog.levelupcoding.com/p/luc-81-essential-caching-strategies-for-optimal-performance) | LevelUpCoding | `#caching` `#performance` |
+
 
 ### DevOps & Infrastructure
 
@@ -156,6 +190,16 @@ This repository is updated weekly with new tools, libraries, and articles. Star 
 | [Canonical Kubernetes, Cilium, and Other CNIs](https://canonical.com/blog/canonical-kubernetes-cilium-and-other-cnis) | Canonical | `#kubernetes` `#networking` |
 | [XNU Kernel and Darwin: Evolution and Architecture](https://tansanrao.com/blog/2025/04/xnu-kernel-and-darwin-evolution-and-architecture/) | Tansanrao | `#kernel` `#darwin` |
 | [Create Your Own GitOps Controller with Rust](https://itnext.io/create-your-own-gitops-controller-with-rust-70b6d077e2d0) | ITNEXT | `#gitops` `#rust` |
+| [Deep Dive into Resource Management in Kubernetes v1.32](https://dev.to/alialp/deep-dive-into-resource-management-in-kubernetes-v132-december-2024-480o) | Dev.to | `#kubernetes` `#resource-management` |
+| [Kubernetes Configuration and Infrastructure as Code Taxonomy](https://itnext.io/kubernetes-configuration-and-infrastructure-as-code-taxonomy-62ab4dd7e82f) | ITNEXT | `#kubernetes` `#iac` |
+| [What Will Be Quantum Computing's Role in the Cloud?](https://www.informationweek.com/it-infrastructure/what-will-be-quantum-computing-s-role-in-the-cloud-) | InformationWeek | `#quantum-computing` `#cloud` |
+| [GPU-Accelerated Serverless Inference with Google Cloud Run](https://thenewstack.io/tutorial-gpu-accelerated-serverless-inference-with-google-cloud-run/) | TheNewStack | `#gpu` `#serverless` `#cloud-run` |
+| [Creating a ClickHouse Cluster on Raspberry Pis](https://www.cncf.io/blog/2025/04/18/creating-a-clickhouse-cluster-on-raspberry-pis/) | CNCF | `#clickhouse` `#raspberry-pi` |
+| [How to Build Scalable and Reliable CI/CD Pipelines with Kubernetes](https://thenewstack.io/how-to-build-scalable-and-reliable-ci-cd-pipelines-with-kubernetes/) | TheNewStack | `#ci-cd` `#kubernetes` |
+| [Real-Time Read-Heavy Database Workloads: Considerations and Tips](https://thenewstack.io/real-time-read-heavy-database-workloads-considerations-and-tips/) | TheNewStack | `#database` `#performance` |
+| [The DevOps Bottleneck: Why IaC Orchestration is the Missing Piece](https://devops.com/the-devops-bottleneck-why-iac-orchestration-is-the-missing-piece/) | DevOps.com | `#devops` `#iac` |
+| [Guide: Cloud Resource Optimization & Cost Management](https://blog.levelupcoding.com/p/luc-48-guide-cloud-resource-optimization-cost-management) | LevelUpCoding | `#cloud` `#cost-management` |
+
 
 ### AI & Machine Learning
 
@@ -173,6 +217,8 @@ This repository is updated weekly with new tools, libraries, and articles. Star 
 | [AI Research Paper](https://www.sciencedirect.com/science/article/pii/S2667295224000795) | ScienceDirect | `#ai` `#research` |
 | [How to Become an AI Engineer](https://www.simplilearn.com/tutorials/artificial-intelligence-tutorial/how-to-become-an-ai-engineer) | Simplilearn | `#ai` `#career` |
 | [Automate 90% of Your Work with AI Agents](https://dev.to/copilotkit/automate-90-of-your-work-with-ai-agents-real-examples-code-inside-46ke) | Dev.to | `#ai` `#automation` |
+| [Introducing AutoRAG on Cloudflare](https://blog.cloudflare.com/introducing-autorag-on-cloudflare/) | Cloudflare | `#rag` `#cloudflare` |
+| [Deep Dive into Building AI Agents with LLMs](https://dev.to/subeshb1/deep-dive-into-building-ai-agents-with-llms-3d0p) | Dev.to | `#ai-agents` `#llm` |
 
 ### Development & Best Practices
 
