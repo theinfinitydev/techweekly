@@ -2,9 +2,9 @@
 
 This repository is a curated collection of technology resources published weekly by [The Infinity](https://www.theinfinity.dev/). It includes the latest tools, libraries, and articles in software development, DevOps, artificial intelligence, and other technology domains.
 
-> 🔄 **Last Updated:** April 21, 2025
+> 🔄 **Last Updated:** May 05, 2025
 > 
-> 📰 **Latest Newsletter:** [The Infinity Tech VII](https://www.theinfinity.dev/p/the-infinity-tech-vii)
+> 📰 **Latest Newsletter:** [The Infinity Tech IX](https://www.theinfinity.dev/p/the-infinity-tech-ix)
 
 This repository is updated weekly with new tools, libraries, and articles. Star and follow this repo to stay updated with the latest developments in the technology world.
 
@@ -21,6 +21,7 @@ This repository is updated weekly with new tools, libraries, and articles. Star 
   - [AI & Machine Learning](#ai--machine-learning-1)
   - [Development & Best Practices](#development--best-practices)
   - [Career & Learning](#career--learning)
+  - [Performance & Software Development](#performance--software-development)
 
 ## 🛠 Development Tools & Platforms
 
@@ -41,8 +42,11 @@ This repository is updated weekly with new tools, libraries, and articles. Star 
 | [vinta/awesome-python](https://github.com/vinta/awesome-python) | Curated list of Python resources | ![GitHub Stars](https://img.shields.io/github/stars/vinta/awesome-python) | `#python` `#resources` |
 | [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) | React-like framework for Rust | ![GitHub Stars](https://img.shields.io/github/stars/DioxusLabs/dioxus) | `#rust` `#ui-framework` |
 | [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) | Collaboration Platform | ![GitHub Stars](https://img.shields.io/github/stars/gitroomhq/postiz-app) | `#collaboration` `#platform` |
+| nerdlog | Developer journaling tool | ![GitHub Stars](https://img.shields.io/github/stars/dimonomid/nerdlog) | `#developer` `#productivity` |
+| Daytona | Development environment platform | ![GitHub Stars](https://img.shields.io/github/stars/daytonaio/daytona) | `#development` `#platform` |
+| TimeScribe | Time management application | ![GitHub Stars](https://img.shields.io/github/stars/WINBIGFOX/TimeScribe) | `#time-management` `#productivity` |
+| AeroSpace | macOS window manager | ![GitHub Stars](https://img.shields.io/github/stars/nikitabobko/AeroSpace) | `#window-manager` `#macos` |
 | [formbricks.com](https://formbricks.com) | Form Builder Platform | - | `#forms` `#surveys` |
-
 ## 🔄 DevOps & Infrastructure
 
 | Repository | Description | Stars | Tags |
@@ -65,6 +69,12 @@ This repository is updated weekly with new tools, libraries, and articles. Star 
 | [govigilant/vigilant](https://github.com/govigilant/vigilant) | Security monitoring and alerting platform | ![GitHub Stars](https://img.shields.io/github/stars/govigilant/vigilant) | `#security` `#monitoring` |
 | [kestra-io/kestra](https://github.com/kestra-io/kestra) | Orchestration and scheduling platform | ![GitHub Stars](https://img.shields.io/github/stars/kestra-io/kestra) | `#orchestration` `#workflow` |
 | [tiagorangel1/cap](https://github.com/tiagorangel1/cap) | Cloud automation platform | ![GitHub Stars](https://img.shields.io/github/stars/tiagorangel1/cap) | `#cloud` `#automation` |
+| 1Panel | Server management panel | ![GitHub Stars](https://img.shields.io/github/stars/1Panel-dev/1Panel) | `#server` `#management` |
+| JumpServer | Open source PAM (Privileged Access Management) | ![GitHub Stars](https://img.shields.io/github/stars/jumpserver/jumpserver) | `#security` `#access-management` |
+| Kubespray | Kubernetes deployment tool | ![GitHub Stars](https://img.shields.io/github/stars/kubernetes-sigs/kubespray) | `#kubernetes` `#deployment` |
+| Kubetail | Kubernetes monitoring tool | ![GitHub Stars](https://img.shields.io/github/stars/kubetail-org/kubetail) | `#kubernetes` `#monitoring` |
+| Headscale | Tailscale control server | ![GitHub Stars](https://img.shields.io/github/stars/juanfont/headscale) | `#networking` `#vpn` |
+| SkyPilot | Cloud computing orchestration tool | ![GitHub Stars](https://img.shields.io/github/stars/skypilot-org/skypilot) | `#cloud` `#orchestration` |
 | [komiser.io](https://www.komiser.io) | Cloud Cost Management | - | `#cloud` `#cost-management` |
 | [dash0.com](https://www.dash0.com) | DevOps Platform | - | `#devops` `#automation` |
 | [zeropath.com](https://zeropath.com) | Security Platform | - | `#security` `#access-control` |
@@ -91,6 +101,10 @@ This repository is updated weekly with new tools, libraries, and articles. Star 
 | [getzep/graphiti](https://github.com/getzep/graphiti) | Graph-based AI knowledge management | ![GitHub Stars](https://img.shields.io/github/stars/getzep/graphiti) | `#ai` `#graph` |
 | [Klavis-AI/klavis](https://github.com/Klavis-AI/klavis) | AI platform for knowledge processing | ![GitHub Stars](https://img.shields.io/github/stars/Klavis-AI/klavis) | `#ai` `#platform` |
 | [coder/agentapi](https://github.com/coder/agentapi) | API for building AI coding agents | ![GitHub Stars](https://img.shields.io/github/stars/coder/agentapi) | `#ai` `#api` |
+| Suna | Open source AI assistant | ![GitHub Stars](https://img.shields.io/github/stars/kortix-ai/suna) | `#ai` `#assistant` |
+| Magnitude | Data analysis platform | ![GitHub Stars](https://img.shields.io/github/stars/magnitudedev/magnitude) | `#data` `#analysis` |
+| Deep-Live-Cam | Real-time video processing | ![GitHub Stars](https://img.shields.io/github/stars/hacksider/Deep-Live-Cam) | `#video` `#processing` |
+| Parlant | Speech recognition and processing tool | ![GitHub Stars](https://img.shields.io/github/stars/emcie-co/parlant) | `#speech` `#recognition` |
 | [jam.dev/ai](https://jam.dev/ai) | AI Development Platform | - | `#ai` `#development` |
 | [trae.ai](https://www.trae.ai) | AI Development Platform | - | `#ai` `#development` |
 
@@ -129,6 +143,11 @@ This repository is updated weekly with new tools, libraries, and articles. Star 
 | [cypht-org/cypht](https://github.com/cypht-org/cypht) | Webmail client | ![GitHub Stars](https://img.shields.io/github/stars/cypht-org/cypht) | `#email` `#client` |
 | [Zackriya-Solutions/meeting-minutes](https://github.com/Zackriya-Solutions/meeting-minutes) | Meeting notes and management tool | ![GitHub Stars](https://img.shields.io/github/stars/Zackriya-Solutions/meeting-minutes) | `#meetings` `#productivity` |
 | [error311/FileRise](https://github.com/error311/FileRise) | File sharing platform | ![GitHub Stars](https://img.shields.io/github/stars/error311/FileRise) | `#file-sharing` `#platform` |
+| Paperless-ngx | Document management system | ![GitHub Stars](https://img.shields.io/github/stars/paperless-ngx/paperless-ngx) | `#document` `#management` |
+| GhostHub | Code sharing platform | ![GitHub Stars](https://img.shields.io/github/stars/BleedingXiko/GhostHub) | `#code-sharing` `#platform` |
+| Email-Sleuth | Email analysis tool | ![GitHub Stars](https://img.shields.io/github/stars/tokenizer-decode/email-sleuth) | `#email` `#analysis` |
+| OpenUI | Open source UI by Weights & Biases | ![GitHub Stars](https://img.shields.io/github/stars/wandb/openui) | `#ui` `#open-source` |
+| Wiredoor | Authentication and authorization system | ![GitHub Stars](https://img.shields.io/github/stars/wiredoor/wiredoor) | `#authentication` `#security` |
 | [raycast.com](https://www.raycast.com) | Productivity Tool | - | `#productivity` `#macos` |
 | [wakatime.com](https://wakatime.com) | Developer Analytics | - | `#productivity` `#metrics` |
 | [follow.is](https://follow.is) | Social Media Management | - | `#social-media` `#marketing` |
@@ -167,7 +186,12 @@ This repository is updated weekly with new tools, libraries, and articles. Star 
 | [Understanding Microservices Architecture](https://medium.com/@gustavowill/understanding-microservices-architecture-662d1f9fd114) | Medium | `#microservices` `#architecture` |
 | [System Design Interview Cheat Sheet 2025 Edition](https://medium.com/javarevisited/system-design-interview-cheat-sheet-2025-edition-key-concepts-books-courses-resources-2b582cd6ecd3) | Medium | `#system-design` `#interview` |
 | [Essential Caching Strategies for Optimal Performance](https://blog.levelupcoding.com/p/luc-81-essential-caching-strategies-for-optimal-performance) | LevelUpCoding | `#caching` `#performance` |
-
+| [8 Common Mistakes to Avoid in API Design](https://blog.levelupcoding.com/p/luc-83-8-common-mistakes-to-avoid-in-api-design) | Level Up Coding | `#api` `#design` |
+| [Software Innovation: Git - Distributed Version Control System](https://build5nines.com/software-innovation-git-distributed-version-control-system-that-changed-everything/) | Build5Nines | `#git` `#version-control` |
+| [7 Architectural Patterns You Must Know](https://blog.amigoscode.com/p/7-architectural-patterns-you-must) | Amigoscode | `#architecture` `#patterns` |
+| [The Data Engineering Roadmap](https://blog.bytebytego.com/p/ep159-the-data-engineering-roadmap) | ByteByteGo | `#data-engineering` `#roadmap` |
+| [One Giant Kubernetes Cluster for Everything](https://itnext.io/one-giant-kubernetes-cluster-for-everything-3c84eb0c6810) | ITNext | `#kubernetes` `#infrastructure` |
+| [Designing a Scalable News Feed System](https://blog.algomaster.io/p/designing-a-scalable-news-feed-system) | AlgoMaster | `#system-design` `#scalability` |
 
 ### DevOps & Infrastructure
 
@@ -199,7 +223,9 @@ This repository is updated weekly with new tools, libraries, and articles. Star 
 | [Real-Time Read-Heavy Database Workloads: Considerations and Tips](https://thenewstack.io/real-time-read-heavy-database-workloads-considerations-and-tips/) | TheNewStack | `#database` `#performance` |
 | [The DevOps Bottleneck: Why IaC Orchestration is the Missing Piece](https://devops.com/the-devops-bottleneck-why-iac-orchestration-is-the-missing-piece/) | DevOps.com | `#devops` `#iac` |
 | [Guide: Cloud Resource Optimization & Cost Management](https://blog.levelupcoding.com/p/luc-48-guide-cloud-resource-optimization-cost-management) | LevelUpCoding | `#cloud` `#cost-management` |
-
+| [AWS Lambda Architecture Deep Dive](https://medium.com/@joudwawad/aws-lambda-architecture-deep-dive-bef856b9b2c4) | Medium | `#aws` `#lambda` `#architecture` |
+| [The Twelve-Factor App](https://12factor.net/) | 12factor.net | `#cloud` `#best-practices` `#architecture` |
+| [Blue/Green Deployments with Amazon RDS](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/blue-green-deployments-overview.html) | AWS Docs | `#aws` `#rds` `#deployment` |
 
 ### AI & Machine Learning
 
@@ -219,6 +245,11 @@ This repository is updated weekly with new tools, libraries, and articles. Star 
 | [Automate 90% of Your Work with AI Agents](https://dev.to/copilotkit/automate-90-of-your-work-with-ai-agents-real-examples-code-inside-46ke) | Dev.to | `#ai` `#automation` |
 | [Introducing AutoRAG on Cloudflare](https://blog.cloudflare.com/introducing-autorag-on-cloudflare/) | Cloudflare | `#rag` `#cloudflare` |
 | [Deep Dive into Building AI Agents with LLMs](https://dev.to/subeshb1/deep-dive-into-building-ai-agents-with-llms-3d0p) | Dev.to | `#ai-agents` `#llm` |
+| [How to Create an AI-Powered Bot](https://www.freecodecamp.org/news/how-to-create-an-ai-powered-bot/) | FreeCodeCamp | `#ai` `#bot` `#development` |
+| [Distributed Cloud Privacy & AI](https://www.infoq.com/articles/distributed-cloud-privacy-ai/) | InfoQ | `#cloud` `#privacy` `#ai` |
+| [Deep Analysis: The Analytics Analogue](https://www.firebird-technologies.com/p/deep-analysis-the-analytics-analogue) | Firebird Technologies | `#analytics` `#data-analysis` |
+| [How Airbnb Powers Personalization](https://blog.bytebytego.com/p/how-airbnb-powers-personalization) | ByteByteGo | `#personalization` `#ai` `#case-study` |
+| [Make Impact with Claude and Codex](https://read.highgrowthengineer.com/p/make-impact-with-claude-and-codex) | High Growth Engineer | `#claude` `#codex` `#ai-tools` |
 
 ### Development & Best Practices
 
@@ -233,3 +264,11 @@ This repository is updated weekly with new tools, libraries, and articles. Star 
 | Title | Source | Tags |
 |-------|--------|------|
 | [Software Engineer Roadmap 2025](https://levelup.gitconnected.com/software-engineer-roadmap-2025-the-complete-guide-2abfcd5a99ae) | GitConnected | `#career` `#learning` |
+
+### Performance & Software Development
+
+| Title | Source | Tags |
+|--------|--------|--------|
+| [Why Your Code is Slow: Common Performance Mistakes](https://www.freecodecamp.org/news/why-your-code-is-slow-common-performance-mistakes-beginners-make) | FreeCodeCamp | `#performance` `#optimization` `#coding` |
+| [The Importance of Writing in the Engineering Field](https://newsletter.eng-leadership.com/p/the-importance-of-writing-in-the) | Eng-Leadership | `#writing` `#engineering` `#communication` |
+| [Decoding Duolingo: How Technology & Design Shape Learning](https://medium.com/gdg-vit/decoding-duolingo-how-technology-design-can-shape-learning-journeys-8a37f48138fc) | Medium | `#design` `#learning` `#case-study` |
