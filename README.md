@@ -33,7 +33,6 @@ This repository is updated weekly with new tools, libraries, and articles. Star 
 | [Openpanel-dev/openpanel](https://github.com/Openpanel-dev/openpanel) | Admin Panel | ![GitHub Stars](https://img.shields.io/github/stars/Openpanel-dev/openpanel) | `#admin` `#dashboard` |
 | [kaneo-app/app](https://github.com/kaneo-app/app) | Application Framework | ![GitHub Stars](https://img.shields.io/github/stars/kaneo-app/app) | `#framework` `#app-development` |
 | [MotiaDev/motia](https://github.com/MotiaDev/motia) | Development Platform | ![GitHub Stars](https://img.shields.io/github/stars/MotiaDev/motia) | `#development` `#platform` |
-| [icantcodefyi/diagram](https://github.com/icantcodefyi/diagram) | Diagram Tool | ![GitHub Stars](https://img.shields.io/github/stars/icantcodefyi/diagram) | `#diagram` `#visualization` |
 | [iib0011/omni-tools](https://github.com/iib0011/omni-tools) | Development Tools | ![GitHub Stars](https://img.shields.io/github/stars/iib0011/omni-tools) | `#tools` `#development` |
 | [swingmx/swingmusic](https://github.com/swingmx/swingmusic) | Music Development Platform | ![GitHub Stars](https://img.shields.io/github/stars/swingmx/swingmusic) | `#music` `#development` |
 | [MizuchiLabs/mantrae](https://github.com/MizuchiLabs/mantrae) | Development Framework | ![GitHub Stars](https://img.shields.io/github/stars/MizuchiLabs/mantrae) | `#framework` `#development` |
